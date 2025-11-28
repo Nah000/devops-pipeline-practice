@@ -1,0 +1,23 @@
+{
+  "name": "devops-pipeline-practice",
+  "version": "1.0.0",
+  "description": "개인 웹 레포지토리 생성",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nah000/devops-pipeline-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nah000/devops-pipeline-practice/issues"
+  },
+  "homepage": "https://github.com/Nah000/devops-pipeline-practice#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
